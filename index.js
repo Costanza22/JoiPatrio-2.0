@@ -1,5 +1,5 @@
 import express from 'express';
-import mysql from 'mysql';
+import mysql from 'mysql2';
 import multer from 'multer';
 import path from 'path';
 import fs from 'fs';
